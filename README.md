@@ -3,29 +3,29 @@
 
 ### Equipment for brewing:
 
-Glass jar (size is not particularly important, except for scale of ingredients and desired quantity of product)
-Knife
-Cutting board or surface
-Strainer/sieve (food-grade plastic is best)
-Measuring cup
-Spoon!
-Sealable bottles (ideally pressure bottles)
-Funnel (ideally plastic)
-Paper towel, napkin, clean washcloth, or something similarly clean and breathable
-Pitcher
+* Glass jar (size is not particularly important, except for scale of ingredients and desired quantity of product)
+* Knife
+* Cutting board or surface
+* Strainer/sieve (food-grade plastic is best)
+* Measuring cup
+* Spoon!
+* Sealable bottles (ideally pressure bottles)
+* Funnel (ideally plastic)
+* Paper towel, napkin, clean washcloth, or something similarly clean and breathable
+* Pitcher
 
 ### Equipment for initial culture capture:
 
-Grater
-Small jar
+* Grater
+* Small jar
 
 Ingredients:
 
-Fresh organic ginger root
-Fresh organic turmeric root
-Sugar (any kind will do, but it has to be an actual sugar or honey, not a sweetener)
-Candied ginger
-Filtered water
+* Fresh organic ginger root
+* Fresh organic turmeric root
+* Sugar (any kind will do, but it has to be an actual sugar or honey, not a sweetener)
+* Candied ginger
+* Filtered water
 
 ### Capturing the culture
 
@@ -57,9 +57,9 @@ Use glass or food-safe plastic wherever possible.  The organisms are sensitive t
 
 I like to add turmeric to this for these reasons:
 
-1)  Makes a thicker head; ginger alone makes a reasonable, but light head
-2)  Adds complexity and a bit of spiciness to the flavor
-3)  Adds a bit more sourness to the flavor (which is better than it probably sounds)
+1.  Makes a thicker head; ginger alone makes a reasonable, but light head
+2.  Adds complexity and a bit of spiciness to the flavor
+3.  Adds a bit more sourness to the flavor (which is better than it probably sounds)
 
 The candied ginger is added to the bottles for finish.  I've found it adds a nice, sweet offset to the natural sourness/tonic flavor of the brew.
 
