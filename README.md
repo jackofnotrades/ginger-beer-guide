@@ -19,7 +19,7 @@
 * Grater
 * Small jar
 
-Ingredients:
+### Ingredients:
 
 * Fresh organic ginger root
 * Fresh organic turmeric root
